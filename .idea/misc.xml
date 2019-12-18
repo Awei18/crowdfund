@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/crowdfund_main" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crowdfund_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_main/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_manager_impl/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_manager_api/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_portal_api/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_portal_impl/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_common/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfund_bean/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

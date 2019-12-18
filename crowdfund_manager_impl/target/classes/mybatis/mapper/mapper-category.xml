@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.zhw.crowdfund.manager.dao.CategoryDao">
+
+    <select id="getCategory" resultType="com.zhw.crowdfund.bean.Category">
+        select * from category
+        where id = #{id}
+
+    </select>
+
+    
+ <!--   <insert id="insertUser">
+        insert into t_user (
+            name,userpswd,sex,email,loginacct
+        ) values (
+            #{name},#{userpswd},#{sex},#{email},#{loginacct}
+        )
+        <selectKey keyProperty="id" resultType="int">
+            select @@identity as id
+        </selectKey>
+    </insert>
+    
+    <update id="updateUser">
+        update t_user
+        set name = #{name}, sex = #{sex}, email = #{email}, loginacct = #{loginacct}
+        where id = #{id}
+    </update>
+    <delete id="deleteUserRole">
+        delete from t_user_role where userid = #{userid} and roleid = #{roleid}
+    </delete>-->
+
+</mapper>

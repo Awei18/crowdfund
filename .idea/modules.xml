@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_bean/crowdfund_bean.iml" filepath="$PROJECT_DIR$/crowdfund_bean/crowdfund_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_common/crowdfund_common.iml" filepath="$PROJECT_DIR$/crowdfund_common/crowdfund_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_main/crowdfund_main.iml" filepath="$PROJECT_DIR$/crowdfund_main/crowdfund_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_manager_api/crowdfund_manager_api.iml" filepath="$PROJECT_DIR$/crowdfund_manager_api/crowdfund_manager_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_manager_impl/crowdfund_manager_impl.iml" filepath="$PROJECT_DIR$/crowdfund_manager_impl/crowdfund_manager_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_parent/crowdfund_parent.iml" filepath="$PROJECT_DIR$/crowdfund_parent/crowdfund_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_portal_api/crowdfund_portal_api.iml" filepath="$PROJECT_DIR$/crowdfund_portal_api/crowdfund_portal_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfund_portal_impl/crowdfund_portal_impl.iml" filepath="$PROJECT_DIR$/crowdfund_portal_impl/crowdfund_portal_impl.iml" />
+    </modules>
+  </component>
+</project>

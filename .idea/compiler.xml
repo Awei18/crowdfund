@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crowdfund_manager_impl" />
+        <module name="crowdfund_portal_api" />
+        <module name="crowdfund_bean" />
+        <module name="crowdfund_common" />
+        <module name="crowdfund_portal_impl" />
+        <module name="crowdfund_main" />
+        <module name="crowdfund_manager_api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="crowdfund_bean" target="1.7" />
+      <module name="crowdfund_common" target="1.7" />
+      <module name="crowdfund_main" target="1.7" />
+      <module name="crowdfund_manager_api" target="1.7" />
+      <module name="crowdfund_manager_impl" target="1.7" />
+      <module name="crowdfund_parent" target="1.8" />
+      <module name="crowdfund_portal_api" target="1.7" />
+      <module name="crowdfund_portal_impl" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
